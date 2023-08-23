@@ -40,7 +40,7 @@ lint = ["lint:fix", "lint:check"]
 sec = ["sec:check"]
 "sec:check" = "bandit -c pyproject.toml -r ."
 clean = "rm -rf ./**/*.pyc ./**/__pycache__ ./.pytest_cache ./.coverage ./.mypy_cache"
-"release:print" = "semantic-release -vv --noop version --print"
+"release:print" = "semantic-release --noop version --print"
 commit = "cz commit"
 
 [tool.pytest.ini_options]
@@ -54,3 +54,6 @@ src_paths = ["tests", "src"]
 
 [tool.semantic_release]
 version_toml = ["pyproject.toml:tool.poetry.version"]
+
+[tool.semantic_release.branches.develop]
+match = "develop"
