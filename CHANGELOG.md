@@ -2,6 +2,41 @@
 
 
 
+## v1.1.0 (2023-08-25)
+
+### Documentation
+
+* docs(Feature-123): added documentation 2
+
+aditional information 2
+
+#123 ([`e0f0ca0`](https://github.com/gabrielhjs/python-template/commit/e0f0ca03b1e8a8643ef1bf7a15291e04a402a5a4))
+
+* docs(Feature-123): added documentation
+
+aditional information ([`c9eea7d`](https://github.com/gabrielhjs/python-template/commit/c9eea7d8f865bd374f19a31f995a1e472e51badc))
+
+### Feature
+
+* feat(Feature-124): added some text
+
+aditional information
+
+#124 ([`49f6c86`](https://github.com/gabrielhjs/python-template/commit/49f6c860c84e052a254f3d824b52eb5188c1668c))
+
+### Unknown
+
+* Merge pull request #4 from gabrielhjs/feature/124
+
+feat(Feature-124): added some text ([`e7af76e`](https://github.com/gabrielhjs/python-template/commit/e7af76ee1ea31bf4330e5e5e7a261faf53995046))
+
+* Merge branch &#39;feature/123&#39; into develop ([`2368b25`](https://github.com/gabrielhjs/python-template/commit/2368b25b6b08eea3abc403931faebdda18309300))
+
+* Merge pull request #2 from gabrielhjs/develop
+
+release 1.0.0 ([`aae81e3`](https://github.com/gabrielhjs/python-template/commit/aae81e336419c631a30106398d0cf41d12ec4a76))
+
+
 ## v1.0.0 (2023-08-23)
 
 ### Breaking
